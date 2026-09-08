@@ -1,5 +1,9 @@
 # Multilevel Time-Dependent Optimal Transport (Haber & Horesh, 2015)
 
+![Asymmetric Transport Stills](output/figures/extension/asym_after_stills.png)
+
+![Density Evolution (c = 100)](output/figures/replication/density_evolution_c100.png)
+
 A high-performance Python implementation, replication, and extension of the multilevel Sequential Quadratic Programming (SQP) solver for time-dependent optimal transport, based on the work of **E. Haber & R. Horesh (2015)**: [*A Multilevel Method for the Solution of Time Dependent Optimal Transport*](https://doi.org/10.4208/nmtma.2015.w02si).
 
 > **Accompanying Report**: For complete theoretical derivations, empirical hyperparameter sweeps, mesh-independence studies, and extended experiments (asymmetric transport, topology changes, and mass merging), refer to [Report.pdf](Report.pdf).
